@@ -47,22 +47,4 @@ This project implements a **Convolutional Neural Network (CNN)** for image class
    ```
 2. Run the Jupyter Notebook `cnn.ipynb` to train and test the CNN model.
 
-## Repository Structure
-```
-📂 ANN-CNN-Implementation
-│-- 📜 Customer_Churn_using_ANN.ipynb
-│-- 📜 cnn.ipynb
-│-- 📜 requirements.txt
-│-- 📜 README.md
-```
-
-## Contributing
-If you would like to contribute to this repository, feel free to submit a pull request with improvements or additional features.
-
-## License
-This project is licensed under the MIT License.
-
----
-
-Feel free to use and modify this project for learning and development!
 
